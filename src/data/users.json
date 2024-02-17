@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3,
+    "name": "John Woo",
+    "address": "Gold Road Shanghai",
+    "phoneNumber": "984-234-12",
+    "email": "johnwoo@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "RJ Smith",
+    "address": "Duston Town",
+    "phoneNumber": "2930-12-3451",
+    "email": "rjsmith@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Frank Castle",
+    "address": "Down Street",
+    "phoneNumber": "1234-20-123",
+    "email": "frankcas@gmail.com"
+  }
+]
